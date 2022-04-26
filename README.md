@@ -1,5 +1,16 @@
 Hi 👋 My name is Mohammed Naeem
-===============================Full Stack web developer------------------------I've been learning code for 4 plus years now. My first language was C, in which I got so much to learn, then I developed an amazing interest with regards to web development, so I learned HTML and basic CSS to make some average level websites to boost my confidence that I could do it. Then I learned some JavaScript for logical purposes. After that I started making some static websites that looked cool to me but average to others. That's how I got interested not in doing just web development but Full Stack web development, For that purpose I learned PHP, Java and python (I wanted to learn flask and django , For that purpose learned python) For backend and MySQL,PostgreSQL, MariaDB and MongoDB for databases.* 🌍  I'm based in Maharashtra, India* ✉️  You can contact me at [naeemgg@duck.com](mailto:naeemgg@duck.com)* 🧠  I'm learning Python framework(flask & django) with MongoDB.* 🤝  I'm open to collaborating on Web applications bases on HTML, CSS, JavaScript, PHP, MySQL, React, NodeJS.* ⚡  I'm an intro-extrovert, but don't tell anyone.(laughing emoji).
+===============================
+
+Full Stack web developer
+------------------------
+
+I've been learning code for 4 plus years now. My first language was C, in which I got so much to learn, then I developed an amazing interest with regards to web development, so I learned HTML and basic CSS to make some average level websites to boost my confidence that I could do it. Then I learned some JavaScript for logical purposes. After that I started making some static websites that looked cool to me but average to others. That's how I got interested not in doing just web development but Full Stack web development, For that purpose I learned PHP, Java and python (I wanted to learn flask and django , For that purpose learned python) For backend and MySQL,PostgreSQL, MariaDB and MongoDB for databases.
+
+*   🌍  I'm based in Maharashtra, India
+*   ✉️  You can contact me at [naeemgg@duck.com](mailto:naeemgg@duck.com)
+*   🧠  I'm learning Python framework(flask & django) with MongoDB.
+*   🤝  I'm open to collaborating on Web applications bases on HTML, CSS, JavaScript, PHP, MySQL, React, NodeJS.
+*   ⚡  I'm an intro-extrovert, but don't tell anyone.(laughing emoji).
 
 ### Skills
 
